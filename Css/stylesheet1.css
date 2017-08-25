@@ -32,4 +32,10 @@
     border:5px solid red;
 }
 
-/* social mdia links  */
+/* about us, resume etc */
+.content-Item
+{
+    /* background-color: green; */
+    margin-left: 50%;
+    font-family: "Courier New", Courier, monospace;
+}
