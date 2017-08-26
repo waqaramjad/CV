@@ -193,3 +193,16 @@
     margin-left: 10%;
     font-size: 250%  
 }
+
+/* new class */
+.wikichexk{
+    
+    border-width: 0px;
+   
+    right:-11px;
+}
+
+.progress span:before
+{
+    right: -11px;
+}
